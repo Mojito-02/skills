@@ -129,7 +129,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/aesthetic-analysis/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -180,7 +180,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/animated-message-composer/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -197,7 +197,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/application-quality-assurance/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -352,7 +352,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/autonomous-cloud-orchestration/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -432,7 +432,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/branch-finalization/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -449,7 +449,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/browser-automation-framework/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -466,7 +466,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/capability-activation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -483,7 +483,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/capability-architect/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -500,7 +500,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/capability-assessment/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -518,7 +518,7 @@
       "candidate_only": true
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": "local SKILL.md missing; candidate: qodex-ai/ai-agent-skills",
     "excluded_from_public_mirror": false
   },
@@ -535,7 +535,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/chat-with-arxiv/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -639,7 +639,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/cloud-expense-management/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -690,7 +690,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/collaborative-document-creation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -707,7 +707,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/collaborative-ideation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -741,7 +741,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/component-interface-design/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -775,7 +775,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/content-harvest/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -792,7 +792,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/creative-generation-agent/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -826,7 +826,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/data-organization-system/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -878,7 +878,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/deep-research-agent/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -912,7 +912,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/delegated-development/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -929,7 +929,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/deployment-automation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -964,7 +964,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/design-system-generator/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1032,7 +1032,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/diagnostic-analysis/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1049,7 +1049,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/directive-synthesis/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1066,7 +1066,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/discussion-intelligence/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1100,7 +1100,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/distributed-task-execution/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1134,7 +1134,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/document-chat-interface/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1180,7 +1180,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/domain-naming-engine/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1409,7 +1409,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/feedback-application/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1579,7 +1579,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/generate-swagger-docs/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1802,7 +1802,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/identity-framework/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1899,7 +1899,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/infrastructure-code-synthesis/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -1933,7 +1933,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/interactive-component-creator/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2070,7 +2070,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/knowledge-distribution/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2156,7 +2156,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/llm-fine-tuning-guide/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2316,7 +2316,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/media-retrieval/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2333,7 +2333,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/media-transformation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2350,7 +2350,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/meeting-record-system/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2435,7 +2435,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/mobile-app-interface/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2452,7 +2452,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/mobile-platform-specialist/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -2503,7 +2503,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/multi-agent-orchestration/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -3381,7 +3381,7 @@
       "candidate_only": true
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": "local SKILL.md missing; candidate: qodex-ai/ai-agent-skills",
     "excluded_from_public_mirror": false
   },
@@ -3432,7 +3432,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/peer-review-initiator/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -3483,7 +3483,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/plan-implementation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -3500,7 +3500,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/planning-documentation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -3653,7 +3653,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/portable-document-handler/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": true
   },
@@ -3746,7 +3746,7 @@
       "candidate_only": true
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": "local SKILL.md missing; candidate: qodex-ai/ai-agent-skills",
     "excluded_from_public_mirror": true
   },
@@ -3832,7 +3832,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/protocol-implementation-framework/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -3866,7 +3866,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/publication-converter/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -3986,7 +3986,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/quality-validation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4020,7 +4020,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/rag-agent-builder/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4071,7 +4071,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/release-notes-composer/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4158,7 +4158,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/research-documentation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4245,7 +4245,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/research-management/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4437,7 +4437,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/review-recipient/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4816,7 +4816,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/specification-executor/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -4850,7 +4850,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/spreadsheet-processor/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": true
   },
@@ -4989,7 +4989,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/system-design/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5074,7 +5074,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/team-communication/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5369,7 +5369,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/user-interface-designer/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5437,7 +5437,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/validation-first-approach/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5505,7 +5505,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/video-archival-system/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5522,7 +5522,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/visual-composition/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5539,7 +5539,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/visual-quality-improver/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5556,7 +5556,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/voice-ai-integration/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5624,7 +5624,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/web-interface-architect/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5692,7 +5692,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/word-document-processor/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": true
   },
@@ -5709,7 +5709,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/workspace-documentation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },
@@ -5726,7 +5726,7 @@
       "url": "https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/workspace-isolation/SKILL.md"
     },
     "source": "folder",
-    "license": "Apache-2.0 (most skills); four document skills are source-available",
+    "license": "Apache-2.0",
     "note": null,
     "excluded_from_public_mirror": false
   },

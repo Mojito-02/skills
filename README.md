@@ -25,7 +25,9 @@
 
 ```text
 skills/<name>/           # 347 个技能目录（351 条中排除 4 个受限技能）
+skills/<name>/UPSTREAM.md # 该技能的原仓库、原文件、commit 和许可证
 sources.json             # 机器可读的来源清单（351 条）
+SKILLS.md                # 按技能名索引，直接链接原 GitHub 仓库
 SOURCES.md               # 按上游仓库分组的可读清单
 INCOMPLETE.md            # 42 个缺失 SKILL.md 的残缺条目
 RESTRICTED.md            # 因许可证原因未放入公开镜像的 4 个技能
@@ -38,7 +40,7 @@ licenses/                # 上游仓库许可证原文
 | 上游仓库 | 技能数 | 许可证 |
 | --- | ---: | --- |
 | [`K-Dense-AI/claude-scientific-skills`](https://github.com/K-Dense-AI/claude-scientific-skills) | 66 | MIT |
-| [`qodex-ai/ai-agent-skills`](https://github.com/qodex-ai/ai-agent-skills) | 66 | Apache-2.0 (most skills); four document skills are source-available |
+| [`qodex-ai/ai-agent-skills`](https://github.com/qodex-ai/ai-agent-skills) | 66 | Apache-2.0 |
 | [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 62 | MIT |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 46 | MIT |
 | [`Yuan1z0825/nature-skills`](https://github.com/Yuan1z0825/nature-skills) | 22 | Apache-2.0 |

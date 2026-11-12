@@ -7,7 +7,7 @@ snapshot does not relicense any third-party material.
 Upstream repositories and their declared licenses:
 
 - https://github.com/K-Dense-AI/claude-scientific-skills — MIT
-- https://github.com/qodex-ai/ai-agent-skills — Apache-2.0 (most skills); four document skills are source-available
+- https://github.com/qodex-ai/ai-agent-skills — Apache-2.0
 - https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep — MIT
 - https://github.com/mattpocock/skills — MIT
 - https://github.com/Yuan1z0825/nature-skills — Apache-2.0
