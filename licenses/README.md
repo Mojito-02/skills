@@ -26,3 +26,5 @@
 - `qodex-ai/ai-agent-skills` 没有根 LICENSE 文件；其 README 声明多数技能为 Apache-2.0，4 个文档技能为 source-available。
 - `anthropics/skills` 的 README 声明其技能为 Apache-2.0；本镜像只包含 `pdf` 与 `template`。
 - `multica-ai/andrej-karpathy-skills` 没有根 LICENSE 文件；其 `karpathy-guidelines` 的 SKILL.md 声明 MIT。
+
+- `skills/pdf/LICENSE.txt` 是从上游 `anthropics/skills` 复制进来的 Apache-2.0 文本，用于补齐该技能 `SKILL.md` 中引用的 LICENSE.txt。
