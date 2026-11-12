@@ -3,6 +3,7 @@
 本目录保存上游仓库的许可证原文；未在此列出的仓库没有根许可证文件。
 
 | Upstream | License file |
+| https://github.com/anthropics/skills | [`anthropics__skills.txt`](anthropics__skills.txt) |
 | --- | --- |
 | https://github.com/AIScientists-Dev/academic-humanizer | [`AIScientists-Dev__academic-humanizer.txt`](AIScientists-Dev__academic-humanizer.txt) |
 | https://github.com/DietrichGebert/ponytail | [`DietrichGebert__ponytail.txt`](DietrichGebert__ponytail.txt) |
