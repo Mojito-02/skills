@@ -1,6 +1,7 @@
 # Sources
 
 按上游 GitHub 仓库分组。`exact` 为 SKILL.md 哈希一致，`name_only` 为同名但版本不同。
+标注 ⚠️ 的条目因许可证原因未放入公开镜像，见 `RESTRICTED.md`。
 
 ## [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) (66)
 
@@ -120,7 +121,7 @@
 | `peer-review-initiator` | [`skills/peer-review-initiator/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/peer-review-initiator/SKILL.md) | exact |
 | `plan-implementation` | [`skills/plan-implementation/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/plan-implementation/SKILL.md) | exact |
 | `planning-documentation` | [`skills/planning-documentation/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/planning-documentation/SKILL.md) | exact |
-| `portable-document-handler` | [`skills/portable-document-handler/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/portable-document-handler/SKILL.md) | exact |
+| `portable-document-handler` | [`skills/portable-document-handler/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/portable-document-handler/SKILL.md) | exact ⚠️ |
 | `protocol-implementation-framework` | [`skills/protocol-implementation-framework/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/protocol-implementation-framework/SKILL.md) | exact |
 | `publication-converter` | [`skills/publication-converter/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/publication-converter/SKILL.md) | exact |
 | `quality-validation` | [`skills/quality-validation/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/quality-validation/SKILL.md) | exact |
@@ -130,7 +131,7 @@
 | `research-management` | [`skills/research-management/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/research-management/SKILL.md) | exact |
 | `review-recipient` | [`skills/review-recipient/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/review-recipient/SKILL.md) | exact |
 | `specification-executor` | [`skills/specification-executor/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/specification-executor/SKILL.md) | exact |
-| `spreadsheet-processor` | [`skills/spreadsheet-processor/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/spreadsheet-processor/SKILL.md) | exact |
+| `spreadsheet-processor` | [`skills/spreadsheet-processor/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/spreadsheet-processor/SKILL.md) | exact ⚠️ |
 | `system-design` | [`skills/system-design/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/system-design/SKILL.md) | exact |
 | `team-communication` | [`skills/team-communication/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/team-communication/SKILL.md) | exact |
 | `user-interface-designer` | [`skills/user-interface-designer/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/user-interface-designer/SKILL.md) | exact |
@@ -140,7 +141,7 @@
 | `visual-quality-improver` | [`skills/visual-quality-improver/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/visual-quality-improver/SKILL.md) | exact |
 | `voice-ai-integration` | [`skills/voice-ai-integration/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/voice-ai-integration/SKILL.md) | exact |
 | `web-interface-architect` | [`skills/web-interface-architect/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/web-interface-architect/SKILL.md) | exact |
-| `word-document-processor` | [`skills/word-document-processor/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/word-document-processor/SKILL.md) | exact |
+| `word-document-processor` | [`skills/word-document-processor/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/word-document-processor/SKILL.md) | exact ⚠️ |
 | `workspace-documentation` | [`skills/workspace-documentation/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/workspace-documentation/SKILL.md) | exact |
 | `workspace-isolation` | [`skills/workspace-isolation/SKILL.md`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/workspace-isolation/SKILL.md) | exact |
 
@@ -218,11 +219,11 @@
 | `ask-matt` | [`skills/engineering/ask-matt/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/ask-matt/SKILL.md) | name_only |
 | `code-review` | [`skills/engineering/code-review/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/code-review/SKILL.md) | name_only |
 | `codebase-design` | [`skills/engineering/codebase-design/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/SKILL.md) | name_only |
-| `decision-mapping` | [`skills/in-progress/decision-mapping/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/in-progress/decision-mapping/SKILL.md) | exact |
-| `design-an-interface` | [`design-an-interface/SKILL.md`](https://github.com/mattpocock/skills/blob/main/design-an-interface/SKILL.md) | exact |
+| `decision-mapping` | [`skills/in-progress/decision-mapping/SKILL.md`](https://github.com/mattpocock/skills/blob/ee8bae40062cd6b435073368ed0c540f48c35862/skills/in-progress/decision-mapping/SKILL.md) | exact |
+| `design-an-interface` | [`design-an-interface/SKILL.md`](https://github.com/mattpocock/skills/blob/74dbf0d00c07cd0fb394cf02bd609e5bc9b42fad/design-an-interface/SKILL.md) | exact |
 | `diagnosing-bugs` | [`skills/engineering/diagnosing-bugs/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/diagnosing-bugs/SKILL.md) | name_only |
 | `domain-modeling` | [`skills/engineering/domain-modeling/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/SKILL.md) | name_only |
-| `edit-article` | [`skills/personal/edit-article/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/personal/edit-article/SKILL.md) | exact |
+| `edit-article` | [`skills/personal/edit-article/SKILL.md`](https://github.com/mattpocock/skills/blob/0a4b76776dfd9979bfe013d99b5562a03b743839/skills/personal/edit-article/SKILL.md) | exact |
 | `git-guardrails-claude-code` | [`skills/misc/git-guardrails-claude-code/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/misc/git-guardrails-claude-code/SKILL.md) | name_only |
 | `grill-me` | [`skills/productivity/grill-me/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) | exact |
 | `grill-with-docs` | [`skills/engineering/grill-with-docs/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md) | name_only |
@@ -232,34 +233,34 @@
 | `implement-spec` | [`skills/engineering/implement-spec/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/implement-spec/SKILL.md) | name_only |
 | `improve-codebase-architecture` | [`skills/engineering/improve-codebase-architecture/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md) | name_only |
 | `migrate-to-shoehorn` | [`skills/misc/migrate-to-shoehorn/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/misc/migrate-to-shoehorn/SKILL.md) | exact |
-| `obsidian-vault` | [`obsidian-vault/SKILL.md`](https://github.com/mattpocock/skills/blob/main/obsidian-vault/SKILL.md) | exact |
+| `obsidian-vault` | [`obsidian-vault/SKILL.md`](https://github.com/mattpocock/skills/blob/d1beb4fe61574b3325ed96cd0d9a31966d31a02a/obsidian-vault/SKILL.md) | exact |
 | `pr` | [`skills/engineering/pr/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/pr/SKILL.md) | name_only |
 | `prototype` | [`skills/engineering/prototype/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/prototype/SKILL.md) | name_only |
-| `qa` | [`qa/SKILL.md`](https://github.com/mattpocock/skills/blob/main/qa/SKILL.md) | exact |
-| `request-refactor-plan` | [`request-refactor-plan/SKILL.md`](https://github.com/mattpocock/skills/blob/main/request-refactor-plan/SKILL.md) | exact |
+| `qa` | [`qa/SKILL.md`](https://github.com/mattpocock/skills/blob/6a87ed07b027d3485dcc77fddff628b62d4e4a9b/qa/SKILL.md) | exact |
+| `request-refactor-plan` | [`request-refactor-plan/SKILL.md`](https://github.com/mattpocock/skills/blob/d1beb4fe61574b3325ed96cd0d9a31966d31a02a/request-refactor-plan/SKILL.md) | exact |
 | `research` | [`skills/engineering/research/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/research/SKILL.md) | name_only |
-| `resolving-merge-conflicts` | [`skills/engineering/resolving-merge-conflicts/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/resolving-merge-conflicts/SKILL.md) | exact |
+| `resolving-merge-conflicts` | [`skills/engineering/resolving-merge-conflicts/SKILL.md`](https://github.com/mattpocock/skills/blob/81ddacb08b3878d07ac4fa2de60bd8a53bacba5b/skills/engineering/resolving-merge-conflicts/SKILL.md) | exact |
 | `retro` | [`skills/engineering/retro/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/retro/SKILL.md) | name_only |
-| `review` | [`skills/in-progress/review/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/in-progress/review/SKILL.md) | exact |
+| `review` | [`skills/in-progress/review/SKILL.md`](https://github.com/mattpocock/skills/blob/df129fcfce610712a737fe4bb9362e621f0752c5/skills/in-progress/review/SKILL.md) | exact |
 | `scaffold-exercises` | [`skills/misc/scaffold-exercises/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/misc/scaffold-exercises/SKILL.md) | exact |
 | `setup-matt-pocock-skills` | [`skills/engineering/setup-matt-pocock-skills/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md) | name_only |
 | `setup-pre-commit` | [`skills/misc/setup-pre-commit/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/misc/setup-pre-commit/SKILL.md) | name_only |
 | `tdd` | [`skills/engineering/tdd/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md) | name_only |
 | `teach` | [`skills/productivity/teach/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/productivity/teach/SKILL.md) | name_only |
-| `to-issues` | [`skills/engineering/to-issues/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-issues/SKILL.md) | exact |
-| `to-prd` | [`skills/engineering/to-prd/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-prd/SKILL.md) | exact |
+| `to-issues` | [`skills/engineering/to-issues/SKILL.md`](https://github.com/mattpocock/skills/blob/788b5c382b769155afcbac0d8402c3b56eae02fd/skills/engineering/to-issues/SKILL.md) | exact |
+| `to-prd` | [`skills/engineering/to-prd/SKILL.md`](https://github.com/mattpocock/skills/blob/3832253f149ea165f45a32ea727886e6d0094d60/skills/engineering/to-prd/SKILL.md) | exact |
 | `to-questionnaire` | [`skills/productivity/to-questionnaire/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/productivity/to-questionnaire/SKILL.md) | exact |
 | `to-spec` | [`skills/engineering/to-spec/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md) | name_only |
 | `to-tickets` | [`skills/engineering/to-tickets/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md) | name_only |
 | `triage` | [`skills/engineering/triage/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/triage/SKILL.md) | name_only |
-| `ubiquitous-language` | [`skills/deprecated/ubiquitous-language/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/deprecated/ubiquitous-language/SKILL.md) | exact |
+| `ubiquitous-language` | [`skills/deprecated/ubiquitous-language/SKILL.md`](https://github.com/mattpocock/skills/blob/62f43a18177be6ec82da242e59ffbc490a4c22ea/skills/deprecated/ubiquitous-language/SKILL.md) | exact |
 | `wait-what` | [`skills/productivity/wait-what/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/productivity/wait-what/SKILL.md) | name_only |
 | `wayfinder` | [`skills/engineering/wayfinder/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/wayfinder/SKILL.md) | name_only |
 | `wizard` | [`skills/engineering/wizard/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/engineering/wizard/SKILL.md) | name_only |
 | `writing-beats` | [`skills/in-progress/writing-beats/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/in-progress/writing-beats/SKILL.md) | name_only |
 | `writing-for-agents` | [`skills/productivity/writing-for-agents/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-for-agents/SKILL.md) | name_only |
 | `writing-fragments` | [`skills/in-progress/writing-fragments/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/in-progress/writing-fragments/SKILL.md) | name_only |
-| `writing-great-skills` | [`skills/productivity/writing-great-skills/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-great-skills/SKILL.md) | exact |
+| `writing-great-skills` | [`skills/productivity/writing-great-skills/SKILL.md`](https://github.com/mattpocock/skills/blob/ee8bae40062cd6b435073368ed0c540f48c35862/skills/productivity/writing-great-skills/SKILL.md) | exact |
 | `writing-shape` | [`skills/in-progress/writing-shape/SKILL.md`](https://github.com/mattpocock/skills/blob/main/skills/in-progress/writing-shape/SKILL.md) | name_only |
 
 ## [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) (22)
@@ -419,7 +420,7 @@
 | `pattern-generator` | incomplete | local SKILL.md missing; candidate: qodex-ai/ai-agent-skills |
 | `ppt-polish` | ok | no upstream repository found; treated as local/custom |
 | `pptx-slidep-win` | ok | no upstream repository found; treated as local/custom |
-| `presentation-builder` | incomplete | local SKILL.md missing; candidate: qodex-ai/ai-agent-skills |
+| `presentation-builder` | incomplete | local SKILL.md missing; candidate: qodex-ai/ai-agent-skills ⚠️ |
 | `proof-checker` | incomplete | local SKILL.md missing; candidate: wanshuiyin/Auto-claude-code-research-in-sleep |
 | `render-html` | incomplete | local SKILL.md missing; candidate: wanshuiyin/Auto-claude-code-research-in-sleep |
 | `research-implement-feature` | incomplete | local SKILL.md missing; candidate: wanshuiyin/Auto-claude-code-research-in-sleep |

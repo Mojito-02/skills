@@ -27,7 +27,7 @@
 | `paper-write` | 13 | [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/main/skills/paper-write/SKILL.md) |
 | `paper-writing` | 0 | [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/main/skills/paper-writing/SKILL.md) |
 | `pattern-generator` | 2 | [`qodex-ai/ai-agent-skills`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/pattern-generator/SKILL.md) |
-| `presentation-builder` | 41 | [`qodex-ai/ai-agent-skills`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/presentation-builder/SKILL.md) |
+| `presentation-builder` ⚠️ | 41 | [`qodex-ai/ai-agent-skills`](https://github.com/qodex-ai/ai-agent-skills/blob/main/skills/presentation-builder/SKILL.md) |
 | `proof-checker` | 0 | [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/main/skills/proof-checker/SKILL.md) |
 | `render-html` | 2 | [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/main/skills/render-html/SKILL.md) |
 | `research-implement-feature` | 0 | [`wanshuiyin/Auto-claude-code-research-in-sleep`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/main/skills/research-implement-feature/SKILL.md) |

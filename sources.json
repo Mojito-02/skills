@@ -856,8 +856,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/in-progress/decision-mapping/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/decision-mapping/SKILL.md"
+      "ref": "ee8bae40062cd6b435073368ed0c540f48c35862",
+      "url": "https://github.com/mattpocock/skills/blob/ee8bae40062cd6b435073368ed0c540f48c35862/skills/in-progress/decision-mapping/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -941,8 +942,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "design-an-interface/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/design-an-interface/SKILL.md"
+      "ref": "74dbf0d00c07cd0fb394cf02bd609e5bc9b42fad",
+      "url": "https://github.com/mattpocock/skills/blob/74dbf0d00c07cd0fb394cf02bd609e5bc9b42fad/design-an-interface/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -1220,8 +1222,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/personal/edit-article/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/personal/edit-article/SKILL.md"
+      "ref": "0a4b76776dfd9979bfe013d99b5562a03b743839",
+      "url": "https://github.com/mattpocock/skills/blob/0a4b76776dfd9979bfe013d99b5562a03b743839/skills/personal/edit-article/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -2939,8 +2942,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "obsidian-vault/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/obsidian-vault/SKILL.md"
+      "ref": "d1beb4fe61574b3325ed96cd0d9a31966d31a02a",
+      "url": "https://github.com/mattpocock/skills/blob/d1beb4fe61574b3325ed96cd0d9a31966d31a02a/obsidian-vault/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -3960,8 +3964,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "qa/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/qa/SKILL.md"
+      "ref": "6a87ed07b027d3485dcc77fddff628b62d4e4a9b",
+      "url": "https://github.com/mattpocock/skills/blob/6a87ed07b027d3485dcc77fddff628b62d4e4a9b/qa/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -4097,8 +4102,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "request-refactor-plan/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/request-refactor-plan/SKILL.md"
+      "ref": "d1beb4fe61574b3325ed96cd0d9a31966d31a02a",
+      "url": "https://github.com/mattpocock/skills/blob/d1beb4fe61574b3325ed96cd0d9a31966d31a02a/request-refactor-plan/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -4339,8 +4345,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/engineering/resolving-merge-conflicts/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/resolving-merge-conflicts/SKILL.md"
+      "ref": "81ddacb08b3878d07ac4fa2de60bd8a53bacba5b",
+      "url": "https://github.com/mattpocock/skills/blob/81ddacb08b3878d07ac4fa2de60bd8a53bacba5b/skills/engineering/resolving-merge-conflicts/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -4408,8 +4415,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/in-progress/review/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/review/SKILL.md"
+      "ref": "df129fcfce610712a737fe4bb9362e621f0752c5",
+      "url": "https://github.com/mattpocock/skills/blob/df129fcfce610712a737fe4bb9362e621f0752c5/skills/in-progress/review/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -5130,8 +5138,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/engineering/to-issues/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-issues/SKILL.md"
+      "ref": "788b5c382b769155afcbac0d8402c3b56eae02fd",
+      "url": "https://github.com/mattpocock/skills/blob/788b5c382b769155afcbac0d8402c3b56eae02fd/skills/engineering/to-issues/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -5147,8 +5156,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/engineering/to-prd/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-prd/SKILL.md"
+      "ref": "3832253f149ea165f45a32ea727886e6d0094d60",
+      "url": "https://github.com/mattpocock/skills/blob/3832253f149ea165f45a32ea727886e6d0094d60/skills/engineering/to-prd/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -5301,8 +5311,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/deprecated/ubiquitous-language/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/deprecated/ubiquitous-language/SKILL.md"
+      "ref": "62f43a18177be6ec82da242e59ffbc490a4c22ea",
+      "url": "https://github.com/mattpocock/skills/blob/62f43a18177be6ec82da242e59ffbc490a4c22ea/skills/deprecated/ubiquitous-language/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
@@ -5832,8 +5843,9 @@
     "upstream": {
       "repo": "mattpocock/skills",
       "path": "skills/productivity/writing-great-skills/SKILL.md",
-      "ref": "main",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-great-skills/SKILL.md"
+      "ref": "ee8bae40062cd6b435073368ed0c540f48c35862",
+      "url": "https://github.com/mattpocock/skills/blob/ee8bae40062cd6b435073368ed0c540f48c35862/skills/productivity/writing-great-skills/SKILL.md",
+      "historical": true
     },
     "source": "folder",
     "license": "MIT",
