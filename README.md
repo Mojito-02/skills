@@ -30,6 +30,7 @@ SOURCES.md               # 按上游仓库分组的可读清单
 INCOMPLETE.md            # 42 个缺失 SKILL.md 的残缺条目
 RESTRICTED.md            # 因许可证原因未放入公开镜像的 4 个技能
 NOTICE.md                # 第三方许可证与归属说明
+licenses/                # 上游仓库许可证原文
 ```
 
 ## 主要上游
