@@ -1,0 +1,19 @@
+{
+  "slug": "wps",
+  "name": "wps",
+  "version": "1.0.0",
+  "installedAt": 1789650139285,
+  "source": "skillhub",
+  "namespace": "user_7368e5a9",
+  "canonicalName": "@user_7368e5a9/wps",
+  "iconSource": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/a4e49550-e527-4406-b761-c4f2e607b757.png",
+  "labels": {
+    "requires_api_key": "false"
+  },
+  "description_zh": "面向中国用户的WPS Office工作流：创建、编辑、审阅、转换及排查.docx/.xlsx/.pptx及WPS格式的文字/表格/演示文档。",
+  "description_en": "WPS Office workflow for Chinese users: create, edit, review, convert, and troubleshoot Writer/Spreadsheets/Presentation documents in .docx/.xlsx/.pptx and WP...",
+  "installs": 36679,
+  "iconLocalPath": "C:\\Users\\ASUS\\.workbuddy\\skills\\wps__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/other_external_resource/a4e49550-e527-4406-b761-c4f2e607b757.png",
+  "installedContentHash": "sha256:4f88b9dcff0c4affb9c68dc86127e699c19754813a4095601e2f4dfb4c3f6102"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WJ 的 Excel / WPS 表格自动化工具",
+  "installedAt": 1789650115729,
+  "source": "marketplace",
+  "version": "1.2.0",
+  "skillId": "skill_2096631204363235328",
+  "description_zh": "Excel / WPS 表格自动化技能：openpyxl 生成专业格式报表、零依赖解析 xlsm/xlsx、批量合并多工作表，适用于财务、销售、考勤、人力场景，双办公软件兼容。",
+  "description_en": "Excel / WPS spreadsheet automation skill by developer WJ. Use when the user needs professionally formatted Excel reports (finance, sales, attendance, HR), batch-merging multiple worksheets or workbooks, or parsing xlsm/xlsx files that openpyxl cannot open (macro-enabled, very large, or damaged). Triggers: Excel automation, WPS spreadsheet, batch table processing, xlsm parsing, openpyxl. Output opens correctly in both Microsoft Excel and WPS Office on Windows and macOS.",
+  "iconSource": "https://openplatform-cdn.codebuddy.cn/public/common/capability_cover/8625b849-b167-4d3a-930a-c648df802ac7/a68e82b8-46f1-49e8-a6b1-6764d9f72448.png",
+  "iconLocalPath": "C:\\Users\\ASUS\\.workbuddy\\skills\\excel-auto-zh\\_icon.png",
+  "iconDownloadedFrom": "https://openplatform-cdn.codebuddy.cn/public/common/capability_cover/8625b849-b167-4d3a-930a-c648df802ac7/a68e82b8-46f1-49e8-a6b1-6764d9f72448.png",
+  "installedContentHash": "sha256:4b0eccc0e0228b45095c3e999031c2a0806075c4be2726684e7ac99e9d0088a0"
+}

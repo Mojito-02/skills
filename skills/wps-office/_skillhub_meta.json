@@ -1,0 +1,11 @@
+{
+  "name": "WPS 办公助手",
+  "installedAt": 1789650124081,
+  "source": "marketplace",
+  "version": "1.0.0",
+  "skillId": "skill_2096042300698075136",
+  "description_zh": "WPS 办公全家桶专家：长文档排版、表格函数透视、演示设计、稻壳模板、JS 宏与 PDF 组件，交付规范办公成品。",
+  "description_en": "Full-cycle WPS Office assistant — from basics to automation, with verifiable steps.",
+  "iconSource": "letter:auto",
+  "installedContentHash": "sha256:9f322f191232e14300ffec73a212a930c87d5a270c55cf7db8f8018b0f43bedf"
+}

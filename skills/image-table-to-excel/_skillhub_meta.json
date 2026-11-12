@@ -1,0 +1,11 @@
+{
+  "name": "图片表格转 Excel",
+  "installedAt": 1789650123233,
+  "source": "marketplace",
+  "version": "1.0.0",
+  "skillId": "skill_2098062259147128832",
+  "description_zh": "把截图或照片里的表格准确转录为结构化 Excel，适用于 WPS/Excel 界面截图、纸质表格拍照、微信聊天图片等来源。核心方法：整图先读表格结构，再按列裁切放大逐格精读，用 openpyxl 生成带样式的表格，最后把存疑单元格整理成清单回报用户核对。",
+  "description_en": "Transcribes tables from screenshots and photos (spreadsheet UI captures, phone photos of paper forms, chat images) into structured Excel workbooks. Core method: read the whole-image table structure first, crop and magnify column by column for close reading, generate a styled workbook with openpyxl, and report any uncertain cells back to the user for verification.",
+  "iconSource": "letter:auto",
+  "installedContentHash": "sha256:5771213b3a80b71e145424d30407247455784760eb5086d4b6ea7b1e4ae74723"
+}

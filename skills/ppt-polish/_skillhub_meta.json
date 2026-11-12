@@ -1,0 +1,11 @@
+{
+  "name": "PPT 美化体检",
+  "installedAt": 1789650119475,
+  "source": "marketplace",
+  "version": "1.0.0",
+  "skillId": "skill_2095922377141129216",
+  "description_zh": "给已有的 PPT 做「美化 + 体检」的批量精修：先全量检查版式毛病（元素越界、文字溢出、互相压盖、字体字号、页脚页码、文案矛盾），再把 PPT 渲染成图片做真实视觉复核，最后按页批量统一配色、修正文案。特别擅长去掉 AI 生成 PPT 的「AI 味」（颜色太多、同色族难区分、占位框刺眼），让 PPT 更好看、更专业、风格统一。适合：美化PPT、优化排版、统一风格、检查PPT问题、批量改配色。运行需要 Windows + WPS Office 或 Microsoft PowerPoint。搜索关键词：PPT美化、PPT优化、PPT体检、PPT精修、去AI味、PPT排版。",
+  "description_en": "Polish, audit and batch-refine an existing PPT/.pptx deck. Runs full layout and palette checks (out-of-bounds elements, text overflow, overlapping shapes, fonts, footers and page numbers, conflicting copy), renders the deck to PNG via WPS Office or Microsoft PowerPoint COM (no LibreOffice needed) for true visual review, then batch-unifies colors and fixes text per page range. Especially good at removing the \"AI look\" from AI-generated decks (too many colors, indistinguishable shades, noisy placeholder boxes) to make slides cleaner, more professional and consistent. Great for polishing an old deck, unifying style, checking for layout problems, or batch color cleanup. Requires Windows with WPS Office or Microsoft PowerPoint.",
+  "iconSource": "letter:auto",
+  "installedContentHash": "sha256:e19365f94f0f1bf506ce9431a89b392a83768897fa1f1e7ab14d78dd88b93d3a"
+}
